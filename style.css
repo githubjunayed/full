@@ -1,0 +1,60 @@
+body,p,span{
+    font-family: 'Roboto', sans-serif;
+
+}
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Rubik', sans-serif;
+}
+.bannersection{
+    background: url(./jorg-angeli-CAMwIxYk5Xg-unsplash.jpg) no-repeat center;
+    background-size: cover;
+    padding: 200px;
+    background-attachment: fixed;
+}
+img{
+    max-width: 100%;
+}
+.imgsection{
+    display: flex;
+}
+.junayedimg{
+    width: 100px;
+    margin: auto;
+}
+.textbesideimg{
+    position: relative;
+    left: 20px;
+}
+.textbesideimg h6{
+    font-size: 18px;
+}
+.imgsection{
+    width: 200px;
+    margin: auto;
+}
+.textsection{
+    position: relative;
+    left: 100PX;
+    
+}
+.finishclass{
+ background: url(./masum.png) no-repeat center center;
+ background-size: cover;
+ padding-top: 200px ;
+}
+.imgjunayed{
+    width: 150px;
+    margin: auto;
+}
+.imgjunayed{
+    position: relative;
+    left: 100px;
+}
+.imgmasum{
+    width: 200px;
+    margin: auto;
+}
+.textmasum{
+    position: relative;
+    left: 20px;
+}
